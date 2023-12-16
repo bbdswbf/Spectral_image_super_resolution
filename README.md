@@ -19,6 +19,11 @@
 | Hoston    | 描述      | [下载链接](http://dase.grss-ieee.org/) |
 | UCMERCED    | 描述      | [下载链接](http://vision.ucmerced.edu/datasets) |
 
-## 如何使用
+# 光谱融合超分数据集
 
-在这里提供有关如何下载和使用数据集的额外信息和说明。
+| 数据集 | 描述 | 下载地址 |
+|------------|------------|----------|
+| QuickBird    | 由QuickBird卫星采集的，包括低分辨多光谱图像和全色图像。 低分辨多光谱图像和全色图像的空间分辨率分别为2.44m和0.61m。 低分辨多光谱图像有四个通道，分别是R、G、B、NIR。      | [下载链接](https://www.satimagingcorp.com/satellite-sensors/quickbird/) |
+| HypSen   | 由Earth Observing-1卫星上的Hyperion传感器采集的30m分辨率高光谱图像和Sentinel-2A卫星采集的10m分辨率多光谱图像组成。去除噪声和水吸收带后，低分辨率高光谱图像由84个光谱通道组成，而高分辨率多光谱图像包含13个光谱通道。      | [下载链接](https://example.com/dataset2) |
+| AVIRIS Cuprite    | 由 NASA的机载可见光和红外成像光谱仪（AVIRIS）在内华达州赤铜矿区上空遥感采集，包含四张尺寸为512×512×224的图像，光谱范围为从370nm到2500nm。     | [下载链接](https://example.com/dataset3) |
+
