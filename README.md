@@ -113,7 +113,7 @@
 | Fusformer (Hu et al., 2022a) | MHF | Transformer | Supervised | TGRS | [Link](https://github.com/J-FHu/Fusformer) |
 | GuidedNet (Ran et al., 2023) | MHF | CNN | Supervised | TCYB | [Link](https://github.com/Evangelion09/GuidedNet) |
 | PSRT (Deng et al., 2023) | MHF | Transformer | Supervised | TGRS | [Link](https://github.com/Deng-shangqi/PSRT) |
-| DPLN (Zhang et al., 2023) | MHF | CNN | Unsupervised | CAAI TRIT |  |
+| DPLN (Zhang et al., 2023) | MHF | CNN | Unsupervised | CAAI TRIT |   |
 | BUSIFusion (Dong et al., 2023) | MHF | DUN  | Unsupervised | TCI |  |
 
 ## How to Use
