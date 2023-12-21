@@ -1,6 +1,6 @@
-# Spectral_image_super_resolution
+# Spectral image super resolution
 
-# 光谱单图超分数据集
+# Single image super-resolution datasets
 
 | 数据集 | 描述 | 下载地址 |
 |------------|------------|----------|
@@ -19,7 +19,7 @@
 | Hoston    | 描述      | [下载链接](http://dase.grss-ieee.org/) |
 | UCMERCED    | 描述      | [下载链接](http://vision.ucmerced.edu/datasets) |
 
-# 光谱融合超分数据集
+# Spectral fusion super-resolution datasets
 
 | 数据集 | 描述 | 下载地址 |
 |------------|------------|----------|
@@ -29,7 +29,7 @@
 
 
 
-# Dataset Project
+# Method list and code link
 
 | Method                   | Scene | Base Framework | Supervision Paradigm | Publication Venue | Code Link |
 |--------------------------|-------|-----------------|-----------------------|----------------------|-----------------------|
