@@ -106,4 +106,17 @@
 | MHF-Net (Xie et al., 2020) | MHF | DUN | Supervised | TPAMI | [Link](https://github.com/XieQi2015/MHF-net/tree/master) |
 | HyCoNet (Zheng et al., 20201b) | MHF | CNN | Unsupervised | TGRS | [Link](https://github.com/saber-zero/hyperfusion) |
 | NonRegSRNet (Zheng et al., 2021c) | MHF | CNN | Unsupervised | TGRS | [Link](https://github.com/saber-zero/NonRegSRNet) |
+| MoG-DCN (Dong et al., 2021) | MHF   | DUN             | Supervised            | TIP                 | [Link](https://see.xidian.edu.cn/faculty/wsdong/Projects/MoG-DCN.htm) |
+| DEIL (Fu et al., 2022b)      | MHF   | CNN             | Unsupervised          | TPAMI               | [Link](https://example.com/deil)              |
+| S2DMDN (Dong et al., 2022a)  | MHF   | DUN             | Supervised            | TGRS                | [Link](https://example.com/s2dmdn)            |
+| UDALN (Li et al., 2022b)     | MHF   | CNN             | Unsupervised          | GRSL                | [GitHub](https://github.com/JiaxinLiCAS/UDALN_GRS) |
+| Fusformer (Hu et al., 2022a) | MHF   | Transformer      | Supervised            | TGRS                | [GitHub](https://github.com/J-FHu/Fusformer)   |
+| GuidedNet (Ran et al., 2023) | MHF   | CNN             | Supervised            | TCYB                | [GitHub](https://github.com/Evangelion09/GuidedNet) |
+| PSRT (Deng et al., 2023)     | MHF   | Transformer      | Supervised            | TGRS                | [GitHub](https://github.com/Deng-shangqi/PSRT) |
+| DPLN (Zhang et al., 2023)    | MHF   | CNN             | Unsupervised          | CAAI TRIT           | [Link](https://example.com/dpln)              |
+| BUSIFusion (Dong et al., 2023)| MHF   | DUN             | Unsupervised          | TCI                 | [Link](https://example.com/busifusion)        |
+
+## How to Use
+
+Provide additional information and instructions on how to download and use the dataset here.
 
